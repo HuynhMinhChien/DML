@@ -1,0 +1,63 @@
+H:\OneDrive\Tài liệu\Visual Studio 2019\VisualStudioProject\C_Sharp\WinForm\WinForm\bin\Debug\WinForm.exe.config
+H:\OneDrive\Tài liệu\Visual Studio 2019\VisualStudioProject\C_Sharp\WinForm\WinForm\bin\Debug\WinForm.exe
+H:\OneDrive\Tài liệu\Visual Studio 2019\VisualStudioProject\C_Sharp\WinForm\WinForm\bin\Debug\WinForm.pdb
+H:\OneDrive\Tài liệu\Visual Studio 2019\VisualStudioProject\C_Sharp\WinForm\WinForm\bin\Debug\Emgu.CV.World.dll
+H:\OneDrive\Tài liệu\Visual Studio 2019\VisualStudioProject\C_Sharp\WinForm\WinForm\bin\Debug\Emgu.CV.World.xml
+H:\OneDrive\Tài liệu\Visual Studio 2019\VisualStudioProject\C_Sharp\WinForm\WinForm\obj\Debug\DML.csprojAssemblyReference.cache
+H:\OneDrive\Tài liệu\Visual Studio 2019\VisualStudioProject\C_Sharp\WinForm\WinForm\obj\Debug\WinForm.GUI.resources
+H:\OneDrive\Tài liệu\Visual Studio 2019\VisualStudioProject\C_Sharp\WinForm\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+H:\OneDrive\Tài liệu\Visual Studio 2019\VisualStudioProject\C_Sharp\WinForm\WinForm\obj\Debug\DML.csproj.GenerateResource.cache
+H:\OneDrive\Tài liệu\Visual Studio 2019\VisualStudioProject\C_Sharp\WinForm\WinForm\obj\Debug\DML.csproj.CopyComplete
+H:\OneDrive\Tài liệu\Visual Studio 2019\VisualStudioProject\C_Sharp\WinForm\WinForm\obj\Debug\WinForm.exe
+H:\OneDrive\Tài liệu\Visual Studio 2019\VisualStudioProject\C_Sharp\WinForm\WinForm\obj\Debug\WinForm.pdb
+H:\OneDrive\Tài liệu\Visual Studio 2019\VisualStudioProject\C_Sharp\WinForm\WinForm\bin\Debug\x86\liblept1753.dll
+H:\OneDrive\Tài liệu\Visual Studio 2019\VisualStudioProject\C_Sharp\WinForm\WinForm\bin\Debug\x86\libtesseract3052.dll
+H:\OneDrive\Tài liệu\Visual Studio 2019\VisualStudioProject\C_Sharp\WinForm\WinForm\bin\Debug\x64\liblept1753.dll
+H:\OneDrive\Tài liệu\Visual Studio 2019\VisualStudioProject\C_Sharp\WinForm\WinForm\bin\Debug\x64\libtesseract3052.dll
+H:\OneDrive\Tài liệu\Visual Studio 2019\VisualStudioProject\C_Sharp\WinForm\WinForm\bin\Debug\Tesseract.dll
+H:\OneDrive\Tài liệu\Visual Studio 2019\VisualStudioProject\C_Sharp\WinForm\WinForm\obj\Debug\WinForm.Tesseract.resources
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\x64\liblept1753.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\x86\liblept1753.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\x86\libtesseract3052.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\x64\libtesseract3052.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\WinForm.exe.config
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\WinForm.exe
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\WinForm.pdb
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\Tesseract.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\obj\Debug\WinForm.GUI.resources
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\obj\Debug\WinForm.Properties.Resources.resources
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\obj\Debug\WinForm.Tesseract.resources
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\obj\Debug\DML.csproj.GenerateResource.cache
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\obj\Debug\DML.csproj.CopyComplete
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\obj\Debug\WinForm.exe
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\obj\Debug\WinForm.pdb
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\obj\Debug\DML.csprojAssemblyReference.cache
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\x64\concrt140.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\x64\cvextern.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\x64\msvcp140.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\x64\opencv_ffmpeg343_64.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\x64\vcruntime140.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\x86\concrt140.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\x86\cvextern.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\x86\msvcp140.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\x86\opencv_ffmpeg343.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\x86\vcruntime140.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\Emgu.CV.UI.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\Emgu.CV.World.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\ZedGraph.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\Emgu.CV.UI.xml
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\Emgu.CV.World.xml
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\ZedGraph.xml
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\Chien-PC\Documents\GitHub\DML\WinForm\WinForm\bin\Debug\zh-tw\ZedGraph.resources.dll
